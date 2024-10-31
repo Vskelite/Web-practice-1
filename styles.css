@@ -16,8 +16,7 @@
     color:white;
 }
 .navcontainer img{
-
-    padding:20px;
+    padding: 20px;
     height: 110px;
     width: 110px;
     border-radius: 50px;
@@ -25,7 +24,6 @@
 #navlist{
     display:flex;
     justify-content: space-between;
-    
 }
 a{
     text-decoration: none;
@@ -55,7 +53,6 @@ footer{
     height:auto;
     background-color: white;
     box-shadow: 10px 0px 8px rgb(46, 45, 45);
-    
 }
 #item1{
     display:flex;
