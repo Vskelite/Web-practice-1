@@ -67,7 +67,6 @@ footer{
 .rightbox{
     width:fit-content;
     height:fit-content;
-    
 } 
 .rightbox img{
     width:170px;
@@ -87,7 +86,6 @@ h3{
 }
 .rightbox img:hover{
     transform: scale(1.1);
-    
 }
 .rightbox .overlay{
     width: 100%;
